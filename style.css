@@ -1,0 +1,153 @@
+*{
+    background-color: #00224e;
+}
+.wel{
+    font-size: 3em;
+    text-align: center;
+    color: aliceblue
+}
+header {
+    padding: 20px;
+    text-align: center;
+}
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: cyan;
+    color: black;
+    cursor: pointer;
+  }
+button:hover {
+    background-color: #89e1ff;
+  }
+a{
+    text-decoration: none;
+    color: black;
+    background-color: #00224e;
+}
+a:hover{
+    color: #89e1ff;
+}
+body{
+    color: aliceblue
+}
+.icons{
+    text-align: center;
+    height: 50vh;
+}
+.fa-brands.fa-facebook.fa-3x:hover{
+    color: hsl(208, 100%, 97%);
+}
+.fa-brands.fa-facebook.fa-3x{
+    color: hsl(240, 100%, 58%);
+}
+.fa-brands.fa-instagram.fa-3x{
+    color: hsl(349, 75%, 57%);
+}
+.fa-brands.fa-instagram.fa-3x:hover{
+    color: hsl(208, 100%, 97%);
+}
+.fa-brands.fa-tiktok.fa-3x{
+    color: hsl(0, 0%, 7%); 
+}
+.fa-brands.fa-tiktok.fa-3x:hover{
+    color: hsl(208, 100%, 97%);
+}
+aside{
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: 3em;
+    margin: 30px;
+    padding: 40px;
+}
+
+.hobbies{
+    text-align: center;
+    font-size: 2em;
+    height: 20vh;
+}
+.chess-1 img{
+    float: right;
+    border-radius: 100px;
+    margin-right: 70px;
+}
+.chess-2 img{
+    float: left;
+    border-radius: 100px;
+    margin-left: 100px;
+}
+.years{
+    float: bottom;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 80px;
+}
+.mlb img{
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-left: 20%;
+}
+.cod video{
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-left: 25%;
+}
+.year{
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 80px;
+}
+
+.invo{
+    text-align: center;
+    font-size: 2em;
+}
+.flex-container {
+  display: flex;  
+  flex-wrap: wrap;  
+  justify-content: space-evenly;  
+  align-items: center; 
+}
+
+.flex-container img {
+  width: 300px;  
+  height: 200px;  
+  margin: 10px;  
+  object-fit: cover;  
+}
+.fav{
+    text-align: center;
+    font-size: 2em;
+}
+.favs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+  }
+  
+  .favs img {
+    width: 600px;
+    max-width: 100%; 
+    height: auto; 
+  }
+  .credit{
+    text-align: center;
+    font-size: 1em;
+
+  }
+.int{
+    text-align: center;
+    font-size: 2em;
+}
+.intr{
+    text-align: center;
+    font-size: 1em;
+}
+footer{
+    text-align: center;
+    color: aliceblue;
+}
